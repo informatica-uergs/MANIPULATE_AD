@@ -1,0 +1,1 @@
+pyinstaller --onefile AD_USER_UPDATE.py
